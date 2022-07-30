@@ -49,6 +49,8 @@ I am a university student developer who likes physics and math. As a person who 
   - [Prototype](https://github.com/Gesture-Input/wrist_data_gathering)
 
 - [![paper](https://img.shields.io/badge/Research%20Paper%20Data%20Extractor-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/RPF511/paper_list_up)   
+  - [API](https://github.com/RPF511/paper_list_up/tree/master/python)
+  - [Web](https://github.com/RPF511/paper_list_up/tree/master/src)
 
   
 </center>
