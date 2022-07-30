@@ -9,7 +9,7 @@ I am a university student developer who likes physics and math. As a person who 
 ---
 <h2 style="text-align: center"> Tech Stack </h2>
 <center>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=HTML5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/Css-3766AB?style=flat-square&logo=css3&logoColor=white) 
