@@ -43,7 +43,7 @@ I am a university student developer who likes physics and math. As a person who 
 
 
 
-<h2 style="text-align: center"> projects </h2>
+<h2 style="text-align: center"> Projects </h2>
 <center>
 
 - [![gid](https://img.shields.io/badge/Gesture%20Input%20Device-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Gesture-Input)   
