@@ -42,6 +42,17 @@ I am a university student developer who likes physics and math. As a person who 
 
 
 
+<h2 style="text-align: center"> projects </h2>
+<center>
+
+- [![gid](https://img.shields.io/badge/Gesture%20Input%20Device-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Gesture-Input)   
+  - [Prototype](https://github.com/Gesture-Input/wrist_data_gathering)
+
+- [![paper](https://img.shields.io/badge/Research%20Paper%20Data%20Extractor-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://github.com/RPF511/paper_list_up)   
+
+  
+</center>
+
 <!--
 **RPF511/RPF511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
