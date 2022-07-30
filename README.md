@@ -6,10 +6,10 @@ Hanyang University ERICA, Korea
 
 I am a university student developer who likes physics and math. As a person who likes to understand basic principles when exploring something, i enjoys thinking about writing clean code that works with systematic data structures and optimized algorithms. If I have a goal or a problem I want to solve, I dig deep and try to implement and solve it somehow, and if I have enough time, I have re-coded the code for a better structure several times. Based on this experience, I am currently designing data and communication structures and algorithms several times before implementing them. According to this character, I am mainly responsible for backend or server development when developing web and app.
 
----
+
 <h2 style="text-align: center"> Tech Stack </h2>
 <center>
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]   
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]    
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=HTML5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/Css-3766AB?style=flat-square&logo=css3&logoColor=white) 
@@ -25,7 +25,7 @@ I am a university student developer who likes physics and math. As a person who 
 
 </center>
 
----
+
 
 <!--
 **RPF511/RPF511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
