@@ -42,6 +42,10 @@ I am a university student developer who likes physics and math. As a person who 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white) 
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white) 
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=AWS%20Lambda&logoColor=white) 
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=AMAZON%20DynamoDB&logoColor=white) 
+![APIGateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=AMAZON%20API%20Gateway&logoColor=white) 
+
 
 </center>
 
